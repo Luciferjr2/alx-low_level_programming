@@ -1,10 +1,12 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-/**
- *First Program, for differentiating between +ve or -ve numbers
+/** 
+ *  main-program entry point.
+ * Return:0-no error,non zero value if error.
+
  **/
-int main(void)
+int main()
 {
 	int n;
 
